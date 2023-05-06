@@ -4,6 +4,8 @@ public class Class2 {
         //V2 calismalarim... cok calistim ama
         System.out.println("V3 kodlarim...");// V3 kodlari
         //V4 kisa yoldan comit
+        //V5 kisa yoldan git
+
 
     }
 }
