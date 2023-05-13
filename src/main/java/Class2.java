@@ -6,6 +6,7 @@ public class Class2 {
         //V4 kisa yoldan comit
         //V5 kisa yoldan git
         //Github degisiklikleri...
+        //v6
 
 
     }
