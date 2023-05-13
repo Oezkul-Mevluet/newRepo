@@ -5,6 +5,7 @@ public class Class2 {
         System.out.println("V3 kodlarim...");// V3 kodlari
         //V4 kisa yoldan comit
         //V5 kisa yoldan git
+        //Github degisiklikleri...
 
 
     }
